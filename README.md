@@ -1,4 +1,4 @@
-# boriswolvers-pset4
+# boriswolvers-pset5
 ## Many Lists
 An extension of the to-do list app. With this new app users can categorize their to-do items. The sqlite database can be retrieved by different activities by using a singleton. No fragments are used, just a new intent.
 
